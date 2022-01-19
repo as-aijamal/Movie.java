@@ -1,4 +1,6 @@
-package com.company;
+package com.company.service;
+
+import com.company.model.Movies;
 
 import java.util.List;
 
@@ -8,7 +10,7 @@ public interface FindAble {
 
     void findMoviesByDirector(List<Movies> movies);
 
-    void findMoviesByYear(List<Movies> movies, int name);
+    void findMoviesByYear(List<Movies> movies);
 
     void findMoviesAndRoleByActor(List<Movies> movies);
 

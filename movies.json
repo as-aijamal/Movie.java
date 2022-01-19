@@ -1,0 +1,192 @@
+{
+  "movies": [
+    {
+      "name": "Good omens",
+      "year": 2019,
+      "description": "TV Series",
+      "director": {
+        "actor": "Douglas Mackinnon"
+      },
+      "cast": [
+        {
+          "actor": "Michael Sheen",
+          "role": "Aziraphale"
+        },
+        {
+          "actor": "David Tennant",
+          "role": "Crowley"
+        }
+      ]
+    },
+    {
+      "name": "Carnival Row",
+      "year": 2019,
+      "description": "TV Series",
+      "director": {
+        "actor": "Some Director"
+      },
+      "cast": [
+        {
+          "actor": "Orlando Bloom",
+          "role": "Detective"
+        },
+        {
+          "actor": "Some Girl",
+          "role": "Angry Fae"
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "year": 2005,
+      "description": "Movie",
+      "director": {
+        "actor": "Happy Guy"
+      },
+      "cast": [
+        {
+          "actor": "David Tennant",
+          "role": "Barty Crouch Junior"
+        },
+        {
+          "actor": "Daniel Radcliffe",
+          "role": "Harry Potter"
+        }
+      ]
+    },
+    {
+      "name": "Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "description": "Movie",
+      "director": {
+        "actor": "Peter Jackson"
+      },
+      "cast": [
+        {
+          "actor": "Ian McKellen",
+          "role": "Gandalf"
+        },
+        {
+          "actor": "Martin Freeman",
+          "role": "Bilbo"
+        },
+        {
+          "actor": "Richard Armitage",
+          "role": "Thorin"
+        }
+      ]
+    },
+    {
+      "name": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "description": "Movie",
+      "director": {
+        "actor": "Peter Jackson"
+      },
+      "cast": [
+        {
+          "actor": "Ian McKellen",
+          "role": "Gandalf"
+        },
+        {
+          "actor": "Martin Freeman",
+          "role": "Bilbo"
+        },
+        {
+          "actor": "Richard Armitage",
+          "role": "Thorin"
+        },
+        {
+          "actor": "Orlando Bloom",
+          "role": "Legolas"
+        },
+        {
+          "actor": "Evangeline Lilly",
+          "role": "Tauriel"
+        },
+        {
+          "actor": "Lee Pace",
+          "role": "Thranduil"
+        }
+      ]
+    },
+    {
+      "name": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "description": "Movie",
+      "director": {
+        "actor": "Peter Jackson"
+      },
+      "cast": [
+        {
+          "actor": "Ian McKellen",
+          "role": "Gandalf"
+        },
+        {
+          "actor": "Martin Freeman",
+          "role": "Bilbo"
+        },
+        {
+          "actor": "Richard Armitage",
+          "role": "Thorin"
+        },
+        {
+          "actor": "Orlando Bloom",
+          "role": "Legolas"
+        },
+        {
+          "actor": "Evangeline Lilly",
+          "role": "Tauriel"
+        },
+        {
+          "actor": "Lee Pace",
+          "role": "Thranduil"
+        }
+      ]
+    },
+    {
+      "name": "Avengers: Endgame",
+      "year": 2019,
+      "description": "Movie",
+      "director": {
+        "actor": "Anthony Russo"
+      },
+      "cast": [
+        {
+          "actor": "Evangeline Lilly",
+          "role": "Hope Van Dyne, Wasp"
+        },
+        {
+          "actor": "Robert Downey Jr.",
+          "role": "Tony Stark, Iron Man"
+        },
+        {
+          "actor": "Chris Hemsworth",
+          "role": "Thor"
+        }
+      ]
+    },
+    {
+      "name": "Sherlock: Season 1",
+      "year": 2010,
+      "description": "TV Series",
+      "director": {
+        "actor": "Paul McGuigan"
+      },
+      "cast": [
+        {
+          "actor": "Benedict Cumberbatch",
+          "role": " Sherlock Holmes"
+        },
+        {
+          "actor": "Martin Freeman",
+          "role": "Dr. Watson"
+        },
+        {
+          "actor": "Una Stubbs",
+          "role": "Mrs. Hudson"
+        }
+      ]
+    }
+  ]
+}
